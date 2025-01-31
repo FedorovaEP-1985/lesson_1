@@ -1,7 +1,5 @@
 name=("Hello")
-def print_greeting(name):
-    print("Привет," + name)
+def print_greeting():
+    print("Привет, мир")
 
-print_greeting("Мир")
-print_greeting("Дружба")
-print_greeting("Жвачка")
+print_greeting()
